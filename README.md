@@ -8,3 +8,5 @@ console app run ./wavelength_calculator
 can be compiled for 64bit
 
 Project file can be imported into Codelite IDE
+
+NEW! added 32bit windows binary executable
